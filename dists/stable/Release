@@ -1,0 +1,21 @@
+Acquire-By-Hash: yes
+Architectures: arm64
+Codename: stable
+Components: main
+Date: Fri, 04 Sep 2026 07:10:50 +0000
+Description: HnKB Raspberry Pi arm64 packages
+Label: HnKB
+Origin: HnKB
+Suite: stable
+MD5Sum:
+ 34935588311e36b96a0e036e438c8310              724 main/binary-arm64/Packages
+ 37db3ee0e0fac916f1aedebb80cd607f              525 main/binary-arm64/Packages.gz
+SHA1:
+ c7d27d97e129889b381eefd972ee8c9173aaa509              724 main/binary-arm64/Packages
+ 564b8704ad89147681080e10147893fe54292a0f              525 main/binary-arm64/Packages.gz
+SHA256:
+ a3905e6096ce1715582d91cd0974762128ec31c15d2d4a13e8e17c2940e80a33              724 main/binary-arm64/Packages
+ 23515d25f0209629a4cb97a9aeb1feb8514dac975a1690c69ee5fd960b85c15d              525 main/binary-arm64/Packages.gz
+SHA512:
+ aeddda12c2086e5c043534d07942b7ee0ba0af29f35beae172bebe04137fe0d6ca3800fd296eb3727c4fddaab4749740f8f46e1025998ce11ba4b3dadea44b0c              724 main/binary-arm64/Packages
+ 83ed0a957408fea951a9c741ad3108e959a76b5876c224d2956301a4ae3904027056068003083270d981a1d9200b4a7cca1e93224c377713b87d6ca0fe9e0f89              525 main/binary-arm64/Packages.gz
