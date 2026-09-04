@@ -17,3 +17,22 @@ Description: keyboard-first Korean word processor for headless Raspberry Pi
  console. It does not require X11, Wayland, a desktop environment, or a web
  browser. Korean fonts and a Dubeolsik input method are bundled.
 
+Package: hnkb
+Version: 0.3.0-4
+Architecture: arm64
+Maintainer: HnKB maintainers
+Installed-Size: 37512
+Depends: libc6, libgcc-s1
+Filename: pool/main/h/hnkb/hnkb_0.3.0-4_arm64.deb
+Size: 26648708
+MD5sum: fe914365e952c9f056da6b8b99fefb6d
+SHA1: d677d8f1f655caa0f487a33c712593934653f796
+SHA256: 3ac825e96892986a89e38f681cbebda607ca85fbc6c137c6254dc38ca3dcd985
+Section: editors
+Priority: optional
+Homepage: https://zinzza.github.io/HnKB-APT/
+Description: keyboard-first Korean word processor for headless Raspberry Pi
+ HnKB edits Markdown-based .kbwp documents directly on a Linux DRM/KMS
+ console. It does not require X11, Wayland, a desktop environment, or a web
+ browser. Korean fonts and a Dubeolsik input method are bundled.
+
