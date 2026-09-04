@@ -39,7 +39,9 @@
             <span>서명 키 설치</span>
             <button type="button" data-copy="key-command">복사</button>
           </div>
-          <pre id="key-command"><code>sudo install -d -m 0755 /etc/apt/keyrings
+          <pre id="key-command"><code>sudo apt update
+sudo apt install --yes ca-certificates curl
+sudo install -d -m 0755 /etc/apt/keyrings
 curl -fsSL https://zinzza.github.io/HnKB-APT/hnkb-archive-keyring.gpg \
   | sudo tee /etc/apt/keyrings/hnkb-archive-keyring.gpg &gt;/dev/null
 sudo chmod 0644 /etc/apt/keyrings/hnkb-archive-keyring.gpg</code></pre>
