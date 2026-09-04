@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0-6",
+  "version": "0.3.0-7",
   "architecture": "arm64",
-  "filename": "hnkb_0.3.0-6_arm64.deb",
-  "sha256": "6c2d01dfe42846752b1304f693385eb755839743487882461a39c5ae22bff5da",
-  "size": 26666662
+  "filename": "hnkb_0.3.0-7_arm64.deb",
+  "sha256": "489a95bdab076fd331629946ea7eed212b70ae9c7043291d51bc1d15b81aaa2b",
+  "size": 26661800
 }
