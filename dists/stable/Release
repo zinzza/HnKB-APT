@@ -2,20 +2,20 @@ Acquire-By-Hash: yes
 Architectures: arm64
 Codename: stable
 Components: main
-Date: Fri, 04 Sep 2026 12:30:10 +0000
+Date: Mon, 07 Sep 2026 11:45:14 +0000
 Description: HnKB Raspberry Pi arm64 packages
 Label: HnKB
 Origin: HnKB
 Suite: stable
 MD5Sum:
- fe3af0a8e94bc0a26065a122aef29038             3620 main/binary-arm64/Packages
- 5c2c259be7fafa52869c115ae9c711da             1008 main/binary-arm64/Packages.gz
+ 7453fffffa59f37dd5c10e8765a7be38             4344 main/binary-arm64/Packages
+ 3d5526f332d01fa61c5021d2bd4ef83c             1119 main/binary-arm64/Packages.gz
 SHA1:
- c987175d98647775219e0a3662a397be7fbd2144             3620 main/binary-arm64/Packages
- 1ae21fce4ea0101bdc3a62dc0e39d5163d5cc608             1008 main/binary-arm64/Packages.gz
+ fe48bb63a57c9c517e538fe5d7706e7f5682a955             4344 main/binary-arm64/Packages
+ 199465a10b279a6b084365c231e5e5b2d913abb2             1119 main/binary-arm64/Packages.gz
 SHA256:
- 2d504cda41a635f9cbccb98b4a929cd4e26b56cbfa4b60d04035ed2d2cef5f49             3620 main/binary-arm64/Packages
- ebe5d8db7b83fa9a11f0c109b59b199033389c7e9b41d752373bdbc5eb69cf82             1008 main/binary-arm64/Packages.gz
+ 67bc6d417c0aa7769f9ec439f480b37852261c750b647c38da0d4ebfdc483384             4344 main/binary-arm64/Packages
+ 2d9132570169c2b99f88a079c12b1765568095387b6ad6d47f3767abcf8d3b3e             1119 main/binary-arm64/Packages.gz
 SHA512:
- 03dd839ffea98fac8a027d3b3575790ad8afcdc94d3c39b1208ac945ecff9056a909e7c68ca895b9ee3896a45986c103063e1f6b39dc8b6f16e81ad0ae3a572b             3620 main/binary-arm64/Packages
- b3823cb886c7701ed3d2181a7e0e64095b7338b8887b643976e6997454740661c96ff127dda01d1d67723e79612a180d08b91b03ccfc3f1dc2bc80035d679ed5             1008 main/binary-arm64/Packages.gz
+ 12e257edbb387f38e3190bc2210b3825b03ec10d843b8dadf4d9ae61d4247a13db9f7876cb0a0a9fcdf1cfb1278c3f02e0727e96a748bed4c19312ecb2e5f76f             4344 main/binary-arm64/Packages
+ 4ea42895c78b3e01597d6fa55eb1c9b3c532614a61905b66e264a6a55cc03b4ef7a0c5e0783ecfbf6df74a67251c2a784ad5b05ebf3e40ca7b14a133330f5233             1119 main/binary-arm64/Packages.gz
