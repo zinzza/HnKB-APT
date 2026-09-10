@@ -5,34 +5,34 @@ Acquire-By-Hash: yes
 Architectures: arm64
 Codename: stable
 Components: main
-Date: Mon, 07 Sep 2026 11:45:14 +0000
+Date: Thu, 10 Sep 2026 03:12:48 +0000
 Description: HnKB Raspberry Pi arm64 packages
 Label: HnKB
 Origin: HnKB
 Suite: stable
 MD5Sum:
- 7453fffffa59f37dd5c10e8765a7be38             4344 main/binary-arm64/Packages
- 3d5526f332d01fa61c5021d2bd4ef83c             1119 main/binary-arm64/Packages.gz
+ 6e2df8a9ecfc9ad111008291d29201ac             5068 main/binary-arm64/Packages
+ 72847d2454e6f0a9b83a0a55753e51fb             1230 main/binary-arm64/Packages.gz
 SHA1:
- fe48bb63a57c9c517e538fe5d7706e7f5682a955             4344 main/binary-arm64/Packages
- 199465a10b279a6b084365c231e5e5b2d913abb2             1119 main/binary-arm64/Packages.gz
+ 24578d25f5e3a534b5435a096c6caa4c7e9554ee             5068 main/binary-arm64/Packages
+ 6ac992aa725beed2ec07abede809c991668c8f05             1230 main/binary-arm64/Packages.gz
 SHA256:
- 67bc6d417c0aa7769f9ec439f480b37852261c750b647c38da0d4ebfdc483384             4344 main/binary-arm64/Packages
- 2d9132570169c2b99f88a079c12b1765568095387b6ad6d47f3767abcf8d3b3e             1119 main/binary-arm64/Packages.gz
+ 5af34cc9fea8c47fe6e883ae64dca8fb3705f0e9e14d194f9b629267451f9c5b             5068 main/binary-arm64/Packages
+ fc51abeea4b2b616d47d81a22da52317bb97655409b4012328af50d2f3eeaf92             1230 main/binary-arm64/Packages.gz
 SHA512:
- 12e257edbb387f38e3190bc2210b3825b03ec10d843b8dadf4d9ae61d4247a13db9f7876cb0a0a9fcdf1cfb1278c3f02e0727e96a748bed4c19312ecb2e5f76f             4344 main/binary-arm64/Packages
- 4ea42895c78b3e01597d6fa55eb1c9b3c532614a61905b66e264a6a55cc03b4ef7a0c5e0783ecfbf6df74a67251c2a784ad5b05ebf3e40ca7b14a133330f5233             1119 main/binary-arm64/Packages.gz
+ 464bd6f5349d6ab23c947ede3a269fd79622cb9d69ee559c81df225bbde568dcb88a02857645af051719b4d467782056dd1169c600f4a68c0ccb212b54943e16             5068 main/binary-arm64/Packages
+ f1b10d8357a71eebf9aaf62b3217eaf6a43ea6fc0678842c63735a4210d0332c298aae72a9cd89c2be4ea317cfb41baa9cd59807e63feedde8c76a888b541b6c             1230 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEcqb3+BQTeMZwa0kH4Iq/SDIHVZsFAmqeo8oACgkQ4Iq/SDIH
-VZsqMAv/aIgi9YjT7gousOUBnXq9Y9ThFm0fgRzPisRhuz4313YZzpj7ylvtJOP8
-u5cN+6yzRy6Y15Q1nvb/y36G2vn6HfZ1w9gKZCXIDi227MJSBKmYRJuR+YdrLodU
-t50fCNXil78Yy2LeOnsP2VHzXbzOpDib0XQwtkrd7zOprp/Deilz2f4BahiAudfx
-DjzF1PZKYJYpgKlXqoI5avtTv2YIiciVAduJvhcz0b4AeFWb9rxp8PZSMMRV006M
-Pg8sOw/m10XEx3VeZYKj/RLJbjQa3MYDqZlOdlUfV/KtbpxpoVcPLJ58T/ugO8GM
-WAkfUmXpYc14BF82CSbgyAvundJEO88eVnTN8nweIVildZNof4JSw3KLlUoFgZXV
-OExEIAOUUkRURau7mFFpg+joKnzaLEXqzgKlI5NeJYCnkMN6HqgSpOYHeEaN5Z1r
-+G24J5kRF7oFRuVr8xfFKk1Dy8wBDjbzyOF1cwbqIrez7JJjUUleipQgkXC1dIXl
-YeHCNwil
-=3YXZ
+iQGzBAEBCgAdFiEEcqb3+BQTeMZwa0kH4Iq/SDIHVZsFAmqiIDAACgkQ4Iq/SDIH
+VZv4Jwv+OBxNgxDLWEe6b5og7u3APqIduevsUnrtdh5ehhFp0x3evsjKeo29/qvT
+h11uyCwmVA9foQ0GX9z/gp74RKlVqaYcfnRW3c2FA7LDV0CUUzKOiFhvijOWCPv2
+9ksPkwZCvsV7eAGVYGPSrRASzweVCT17YneraWrSqx1LmN7aDLqHl2aFgIpeNhFK
+23EM75nvIcECSi82C5T/2zrJeBqjT6IpcSkDi31D6LngSK1mFajV2jZSlixturgF
+5ApnRXcE0/xdFBUvKm4ASorDWim6Rqm9QsBqXvH6h0tCcwhzd/581LW/hGpTI8k4
+vsXHZzG2P4zU3t8fXRanXwsyCtyrk81vWPjknfcu2f0Dqzd8DD745wayxMB1NFJE
+tJWn9tw+81/8xr+S5CY9w3eUO74X7PxB+eu2M/xZISuG3MZFAu/AOSe7VtD/AfKo
+T64FpG1xsJNhjg9K1hjpwDm+f2zaMgbvHoDZ8J1vr/qtaIaJx0Crl7CCY89c5UqG
+84p87b8r
+=cxOA
 -----END PGP SIGNATURE-----
